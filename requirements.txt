@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+pandas
+numpy
+scikit-learn
+matplotlib
+altair
